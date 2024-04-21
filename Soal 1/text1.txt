@@ -1,0 +1,8 @@
+=== Data Mahasiswa ===
+
+Nama    : Ivan Roberto Halim
+NIM     : 71230986
+Gender  : Laki-Laki
+Umur    : 19 Tahun
+Prodi   : Informatika
+Hobi    : Tidur

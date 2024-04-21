@@ -1,0 +1,6 @@
+=== Data Mahasiswa ===
+
+Nama    : Ian Ruberto Halim
+NIM     : 71230986
+Gender  : Laki-Laki
+Umur    : 190 Tahun
