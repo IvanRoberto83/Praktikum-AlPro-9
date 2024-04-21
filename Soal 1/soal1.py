@@ -1,3 +1,5 @@
+#Soal 1
+
 teks1 = open("text1.txt")
 teks2 = open("text2.txt")
 count = 0

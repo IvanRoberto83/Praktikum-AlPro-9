@@ -1,3 +1,5 @@
+#Soal 2
+
 file = input("Nama File : ")
 handle = open(file)
 
